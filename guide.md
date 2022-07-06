@@ -65,6 +65,7 @@ _{copy from elevator pitch above}_
 _A kanban board, but within your todo list_
 
 `[ ] do the thing` use in lists
+
 `@status thing to check later` use in comments throughout your project 
 
 ```md
